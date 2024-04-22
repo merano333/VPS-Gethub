@@ -1,0 +1,7 @@
+for RDP VPS
+create new repo
+in the setting go to secret and variables - actions
+create new add ngrok authtoken with name "NGROK_AUTH_TOKEN"
+go to action tab and set up a workflow yourself
+paste the code and commit
+go to ngrok - cloude edge - endpoint and get link
